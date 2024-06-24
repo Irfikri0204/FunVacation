@@ -23,12 +23,6 @@ Fun Vacation is a very useful application for tourists who want to explore the n
 
 ## Screenshots
 
-![Splash Screen](/asset/splashscreen.png)
+![Description](/asset/description.png)
 
-![On Boarding Activity](/asset/onboarding.png)
-
-![Main Activity](/asset/main.png)
-
-![Detail Activity](/asset/detail.png)
-
-![Profile Activity](/asset/about.png)
+![Screenshot](/asset/screnshot.png)
