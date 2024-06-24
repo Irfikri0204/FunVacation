@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Fun Vacation</string>
+    <string name="button_start">Mulai Eksplorasi</string>
+    <string name="gambar_pemandangan">Gambar Pemandangan</string>
+    <string name="deskripsi_start">Dapatkan informasi lengkap dan foto-foto menarik yang membuatmu serasa sudah berada di sana.</string>
+    <string name="title_start">Eksplorasi Beragam Keindahan Destinasi Wisata dan Tempat Bersejarah di Sulawesi Selatan</string>
+    <string name="card_title">Nama Tempat Wisata</string>
+    <string name="card_position">Lokasi</string>
+    <string name="card_description">Deskripsi Tempat:</string>
+    <string name="button_browser">Open In Browser</string>
+    <string name="text_question">Kemana kamu ingin berwisata?</string>
+    <string name="text_hi">Hai, User!</string>
+
+    <string-array name="place_name">
+        <item>Kawasan Hutan Pinus Malino</item>
+        <item>Desa Kete Kesu</item>
+        <item>Tanjung Bira</item>
+        <item>Tebing Apparalang</item>
+        <item>Bantimurung</item>
+        <item>Museum Saoraja Mallangga</item>
+        <item>Museum Balla Lompoa</item>
+        <item>Pantai Losari</item>
+        <item>Pulau Samalona</item>
+        <item>Benteng Rotterdam</item>
+    </string-array>
+
+    <string-array name="place_position">
+        <item>Kabupaten Gowa</item>
+        <item>Kabupaten Toraja Utara</item>
+        <item>Kabupaten Bulukumba</item>
+        <item>Kabupaten Bulukumba</item>
+        <item>Kabupaten Maros</item>
+        <item>Kabupaten Wajo</item>
+        <item>Kabupaten Gowa</item>
+        <item>Kota Makassar</item>
+        <item>Kota Makassar</item>
+        <item>Kota Makassar</item>
+    </string-array>
+
+    <string-array name="place_description">
+        <item>Kawasan Hutan Pinus merupakan salah satu atraksi wisata yang direkomendasikan di Kabupaten Gowa, Sulawesi Selatan. Pemandangan hamparan pohon pinus yang luas dan hijau dengan udara sejuk merupakan keunggulan kawasan wisata ini. Tidak heran jika wisatawan selalu ramai mengunjungi area ini. Berkeliling sambil berkuda atau melihat-lihat kebun stoberi yang berada di sekitar Kawasan Hutan Pinus merupakan pilihan kegiatan yang dapat dilakukan oleh pengunjung.</item>
+        <item>Desa Kete Kesu adalah salah satu tempat wisata di Toraja Utara yang cukup populer. Terutama terkait kekentalan adat istiadat dan beberapa peninggalan sejarahnya.\n\nPemandangan utama yang akan disaksikan di kawasan ini adalah deretan rumah adat tongkonan yang berjejer rapi. Rumah-rumah adat khas Toraja ini sangat menarik untuk dijadikan spot foto.\n\nMasuk lebih dalam, pengunjung akan menemukan peninggalan purbakala berupa kuburan batu yang berumur ratusan tahun. Situs purbakala ini bahkan telah diakui sebagai warisan budaya dunia oleh UNESCO.</item>
+        <item>Tanjung Bira adalah pantai yang terletak di Kecamatan Bonto Bahari, sekitar 40 km dari Kota Bulukumba. Pantai yang terkenal dengan pasir putihnya ini sangat nyaman dan mudah dijangkau. Tanjung Bira sangat menarik, para pegunjung dapat melihat para nelayan dengan perahu mereka melaut di malam hari. Ada banyak fasilitas tersedia di Tanjung Bira seperti hotel, villa, dan restoran sepanjang pantai.</item>
+        <item>Tebing Apparalang dalam Bahasa Konjo terdiri dari dua suku kata yaitu appa dan ralang. Appa memiliki makna ujung dan ralang bermakna curam. Sesuai namanya tebing dikelilingi tebing-tebing yang curam.\n\nBahasa Konjo merupakan salah satu bahasa dari bahasa Melayu Polinesia yang dituturkan di ujung tenggara bagian selatan Pulau Sulawesi (Suku Konjo Pesisir).</item>
+        <item>Taman Nasional Bantimurung terletak di Jalan Poros Maros-Bone KM.12, Kallabirang, Kecamatan Bantimurung, dengan waktu tempuh sekitar 1 jam dari Kota Makassar. Di sini, terdapat beberapa daya tarik yang dapat dinikmati oleh wisatawan, yaitu air terjun, penangkaran kupu-kupu, dan keindahan batuan stalaktit dan stalakmit. Taman Nasional Bantimurung menawarkan beberapa aktivitas wisata kepada para pengunjung, seperti flying fox, jelajah gua, bertualang di alam bebas, panjat tebing, dan bermain air. Kawasan ini sangat cocok untuk dikunjungi bersama teman dan keluarga.</item>
+        <item>Dikutip digitaldesa.id dari Museum Saoraja Mallangga adalah museum yang diresmikan pada tahun 1990 oleh pemerintah Wajo atas persetujuan ahli waris dan pemilik bangunan. Museum ini awalnya lebih dikenal dengan nama museum Sengkang dan diresmikan pada 1933.\n\nSaoraja Mallangga memiliki arti istana bertingkat. Tempat ini dahulunya merupakan kediaman raja dan berfungsi sebagai pusat pemerintahan Wajo.\n\nDi dalam museum ini terdapat berbagai koleksi dari bekas Kerajaan Wajo. Beberapa di antaranya adalah naskah-naskah, etnografi, keramik, foto, historika, dan berbagai benda pusaka peninggalan Raja Mallangga.</item>
+        <item>Museum Balla Lompoa adalah sebuah museum yang terletak di tengah-tengah Kelurahan Sungguminasa. Museum ini didirikan pada tanggal 11 Desember 1973. Balla Lompoa merupakan arsitek rumah etnis Makassar dapat diartikan rumah besar dalam bahasa Makassar atau istana bagi raja-raja dari Kerajaan Gowa.</item>
+        <item>Pantai Losari Makassar adalah sebuah pantai yang terletak di sebelah barat Kota Makassar, Provinsi Sulawesi Selatan, Indonesia. Pantai ini menjadi tempat bagi warga Makassar untuk menghabiskan waktu pada pagi, sore, dan malam hari menikmati pemandangan matahari tenggelam yang sangat indah.</item>
+        <item>Samalona adalah nama sebuah pulau kecil bervegetasi dan berpenghuni yang berada di gugusan Kepulauan Spermonde, perairan Selat Makassar dan secara administratif masuk pada wilayah Kelurahan Lae-Lae, Kecamatan Ujung Pandang, Kota Makassar, Sulawesi Selatan, Indonesia.</item>
+        <item>Benteng Rotterdam atau Benteng Ujung Pandang adalah sebuah benteng peninggalan Kerajaan Gowa-Tallo. Letak benteng ini berada di pinggir pantai sebelah barat Kota Makassar, Sulawesi Selatan. Benteng ini awalnya dibangun pada tahun 1545 oleh Raja Gowa ke-9 yang bernama Daeng Matanre Karaeng Tumapa\'risi\' Kallonna.</item>
+    </string-array>
+
+    <integer-array name="place_photo">
+        <item>@drawable/malino</item>
+        <item>@drawable/ketekesu</item>
+        <item>@drawable/bira</item>
+        <item>@drawable/apparalang</item>
+        <item>@drawable/bantimurung</item>
+        <item>@drawable/museumsaroaja</item>
+        <item>@drawable/museumballalompoa</item>
+        <item>@drawable/pantailosari</item>
+        <item>@drawable/samalona</item>
+        <item>@drawable/bentengrotterdam</item>
+    </integer-array>
+
+    <string-array name="place_link">
+        <item>https://disbudpar.sulselprov.go.id/page/wisata/14/kawasan-hutan-pinus-malino</item>
+        <item>https://wonderfulimages.kemenparekraf.go.id/read/520/menyusuri-desa-adat-kete-kesu</item>
+        <item>https://disbudpar.sulselprov.go.id/page/wisata/16/pantai-bira</item>
+        <item>https://regional.kompas.com/read/2022/07/18/192424578/tebing-apparalang-daya-tarik-harga-tiket-dan-rute?page=all</item>
+        <item>https://wonderfulimages.kemenparekraf.go.id/read/1219/taman-nasional-bantimurung-surga-tersembunyi-di-sulawesi-selatan</item>
+        <item>https://disbudpar.sulselprov.go.id/page/budaya/106/museum-simettengpola-saoraja-mallangga</item>
+        <item>https://disbudpar.sulselprov.go.id/page/wisata/11/balla-lompoa</item>
+        <item>https://disbudpar.sulselprov.go.id/page/wisata/2/pantai-losari</item>
+        <item>https://disbudpar.sulselprov.go.id/page/wisata/8/pulau-samalona</item>
+        <item>https://www.indonesia.travel/id/id/ide-liburan/benteng-fort-rotterdam-peninggalan-sejarah-dari-kerajaan-gowa-tallo.html</item>
+    </string-array>
+</resources>
